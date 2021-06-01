@@ -8,4 +8,4 @@ This Repository consist of Daily learning JS, Assignments, coding challenge, pro
 
 ## Resources 📚🧾
 
-📘[References](https://html-css-js.com/js/)
+📘[Cheatsheet](https://html-css-js.com/js/)
