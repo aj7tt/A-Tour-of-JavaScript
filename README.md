@@ -47,7 +47,7 @@
 
 **Quick References**📖<br>
 📔Cheatsheet - [Click here](https://html-css-js.com/js/) <br>
-📔CheatSheet DOM - [click here](https://drive.google.com/file/d/1HLCR04r39VQAbPDATKlHAXGDUXr3vpQ0/view?usp=sharing)
+📔CheatSheet DOM - [click here](https://drive.google.com/file/d/1HLCR04r39VQAbPDATKlHAXGDUXr3vpQ0/view?usp=sharing)<br>
 📔Interactive cheatsheet - [click here](https://htmlcheatsheet.com/js/)
 
 **Learn through Blogs**🧾<br>
