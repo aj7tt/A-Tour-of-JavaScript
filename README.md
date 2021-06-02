@@ -1,5 +1,5 @@
 # A Tour of JavaScript💛
-> This Repository consist of Daily learning, Assignments, coding challenge, projects, references, tutorial.
+> This Repository consist of Daily learning, Assignments, coding challenge, projects, references, tutorial.👩‍💻👨‍💻
 
 
 # Table of Contents📑
