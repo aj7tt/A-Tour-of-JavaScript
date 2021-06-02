@@ -23,8 +23,6 @@
 </pre>
 </details>
 
-> LearnByDoing [click here](https://github.com/Aj7t/JavaScript/tree/main/LearnByDoing/Js%20Fundamentals%20-01)
-
 
 
 
