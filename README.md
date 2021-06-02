@@ -2,7 +2,7 @@
 > This Repository consist of Daily learning, Assignments, coding challenge, projects, references, tutorial.
 
 
-# Table of Contents
+# Table of Contents📑
 
 
 <details>
