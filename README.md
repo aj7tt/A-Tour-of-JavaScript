@@ -10,12 +10,12 @@
 
 
 **Documentation**📑<br>
-📔[Documentation](http://introjs.com/docs)<br>
+📔Documentation [Click here](http://introjs.com/docs)<br>
 
 ### Learn JavaScript📚
-📗[w3schools](https://www.w3schools.com/js/)<br>
-📗[Udemy-js](https://www.udemy.com/course/the-complete-javascript-course/)<br>
-📗[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)<br>
+📗[w3schools] [Click here](https://www.w3schools.com/js/)<br>
+📗[Udemy-js] [Click here](https://www.udemy.com/course/the-complete-javascript-course/)<br>
+📗[FreeCodeCamp] [Click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)<br>
 
 
 **Free Js Courses**📚<br>
