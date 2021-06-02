@@ -47,12 +47,13 @@
 
 **Quick References**📖<br>
 📔Cheatsheet - [Click here](https://html-css-js.com/js/) <br>
+📔CheatSheet DOM - [click here](https://drive.google.com/file/d/1HLCR04r39VQAbPDATKlHAXGDUXr3vpQ0/view?usp=sharing)
 📔Interactive cheatsheet - [click here](https://htmlcheatsheet.com/js/)
 
 **Learn through Blogs**🧾<br>
 📘[JavaScript Fundamentals](https://www.freecodecamp.org/news/javascript-example/)<br>
-📘[Tutorial- Theory notes](https://drive.google.com/drive/u/0/folders/1GwY_1ixbYcNgDwIiLuzdH9Rf9hHjuMqk)<br>
-📘[learn by doing projects](https://drive.google.com/drive/u/0/folders/1GwY_1ixbYcNgDwIiLuzdH9Rf9hHjuMqk)<br>
+📘[Tutorial- Theory notes](https://drive.google.com/file/d/1IF37kegYt_sLTMBTh1bCoWHUopcTtO9X/view?usp=sharing)<br>
+📘[Project based Learning](https://drive.google.com/file/d/1IMnMPPcjwRENh3HDSDxQATRwUdKbSm1Q/view?usp=sharing)<br>
 📘[Javascript Resources Ref](https://www.freecodecamp.org/news/30-free-resources-for-learning-javascript-fundamentals/)<br>
 📘[Javascript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)<br>
 
