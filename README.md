@@ -22,12 +22,11 @@
  -->
 
 
+## RoadMap📈🚵‍♀️
+
 
 ## Resources 📚🧾
-
-
-**Learn javaScript**📑<br>
-📔Top Finest Learning Material - [click here](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Resources.md)<br>
+📔Learning Material - [click here](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Resources.md)<br>
 
 
 
