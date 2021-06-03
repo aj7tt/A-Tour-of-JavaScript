@@ -3,7 +3,7 @@
 
 ```
 
-        Welcome! to A tour of JavaScript.
+ console.log(Welcome! to A tour of JavaScript)
 
 ```
 
