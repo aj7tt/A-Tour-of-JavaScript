@@ -22,8 +22,7 @@
 11.The Conditional (Ternary) Operator...
 </pre>
 </details>
-<br>
-
+ 
 <details>
 <summary>JavaScript Fundamentals – 02</summary>
 <br><br>
