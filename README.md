@@ -4,12 +4,12 @@
 
 # Table of Contents📑
 
-> #LearnByDoing [↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)<br>
-> #Challanges   <br>
-> #Projects <br>
+> **#LearnByDoing** [↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)<br>
+> **#Challanges**   <br>
+> **#Projects** <br>
     
 
-> ![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)
+![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)
 
 <details>
 <summary>JavaScript Fundamentals – 01</summary>
