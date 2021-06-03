@@ -8,9 +8,7 @@ Welcome! to A tour of JavaScript.
 ```
 
 
-
-
-# Table of Contents📑
+# Contents of Repository📑
 
 > **#LearnByDoing** [↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)<br>
 > **#Challenges**   <br>
