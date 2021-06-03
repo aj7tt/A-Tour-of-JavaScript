@@ -4,7 +4,10 @@
 
 # Table of Contents📑
 
-> #LearnByDoing  ||   #Challanges   ||   #Projects     
+> #LearnByDoing 
+> #Challanges   
+> #Projects 
+    
 
 ![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)
 
