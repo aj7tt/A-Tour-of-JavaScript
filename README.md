@@ -15,8 +15,8 @@ Welcome to A tour of the JavaScript.
 > **#Challenges**   <br>
 > **#Projects** <br>
     
-
-![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)
+<!---
+![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large) -->
 
 <details>
 <summary>JavaScript Fundamentals – 01</summary>
