@@ -27,7 +27,7 @@
 
 
 **Learn javaScript**📑<br>
-📔Best Learning Material - [click here](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Resources.md)<br>
+📔Top Finest Learning Material - [click here](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Resources.md)<br>
 
 
 
