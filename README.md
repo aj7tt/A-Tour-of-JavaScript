@@ -8,7 +8,6 @@
 ```
 
 
-
 |   #       | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
 |  01   |  [LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)      |
@@ -17,29 +16,10 @@
 |  04   |  [Visual_handcrafted_notes]()   |
 
  
-    
-<!---
-![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large) -->
+### Jonas Schmedtmann Roadmap 
+![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)  
 
-<details>
-<summary>JavaScript Fundamentals – 01</summary>
-<br><br>
-<pre>
-
-1.Values and Variables... 
-2.Data Types ... 
-3.let, const and var ... 
-4.Basic Operators ... 
-5.Strings and Template Literals... 
-6.Taking Decisions: if / else Statements...
-7.Type Conversion and Coercion...  
-8.Equality Operators: == vs. ===...
-9.Logical Operators ... 
-10.The switch Statement ... 
-11.The Conditional (Ternary) Operator...
-</pre>
-</details>
-
+ 
 
 
 
