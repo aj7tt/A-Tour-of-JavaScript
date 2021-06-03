@@ -4,7 +4,7 @@
 
 # Table of Contents📑
 
-<img src="https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large" width="200px", height="300px">
+![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)
 
 <details>
 <summary>JavaScript Fundamentals – 01</summary>
