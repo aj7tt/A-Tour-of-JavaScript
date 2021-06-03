@@ -1,6 +1,13 @@
 # 🔰A Tour of JavaScript💛
 > This Repository consist of Daily learning, Assignments, coding challenge, projects, references, tutorial.👩‍💻👨‍💻
 
+'''
+Welcome to A tour of the JavaScript.
+
+'''
+
+
+
 
 # Table of Contents📑
 
