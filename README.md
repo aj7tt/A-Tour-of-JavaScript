@@ -5,7 +5,7 @@
 # Table of Contents📑
 
 > **#LearnByDoing** [↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)<br>
-> **#Challanges**   <br>
+> **#Challenges**   <br>
 > **#Projects** <br>
     
 
