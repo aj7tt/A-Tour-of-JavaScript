@@ -8,13 +8,11 @@ Welcome! to A tour of JavaScript.
 ```
 
 
-# Contents of Repository📑
-
 |   #   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  01   | [#LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)     |
-|  02   | [#Challenges]()    |
-|  03   | [#Projects] ()    |
+|  01   | [LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)     |
+|  02   | [CodingChallenges]()    |
+|  03   | [Project based Learning]()    |
  
     
 <!---
