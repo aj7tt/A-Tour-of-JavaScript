@@ -2,7 +2,7 @@
 # LearnByDoing 👨‍💻👩‍💻
 
 
-### Table of Contents 
+### Table of Contents 📚
 
 <details>
 <summary>JavaScript Fundamentals – 01</summary>
