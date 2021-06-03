@@ -4,9 +4,9 @@
 
 # Table of Contents📑
 
-> #LearnByDoing 
-> #Challanges   
-> #Projects 
+> #LearnByDoing [↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)<br>
+> #Challanges   <br>
+> #Projects <br>
     
 
 ![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)
