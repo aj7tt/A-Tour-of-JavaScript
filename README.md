@@ -8,11 +8,11 @@
 ```
 
 
-|   #   | Topics                                                    | Explanation                                 |
+|   #   | Topics                                                    |                              |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  01   | [LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)     | The Complete concept is covered in practical way!  |
-|  02   | [CodingChallenges]()    |                         |                        |
-|  03   | [Project based Learning]()    |                           |          |
+|  01   | [LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)     |  
+|  02   | [CodingChallenges]()    |                         
+|  03   | [Project based Learning]()    |         
  
     
 <!---
