@@ -15,11 +15,11 @@
 |  03   |  [Project_based Learning]()   |
 |  04   |  [Visual_handcrafted_notes]()   |
 
- 
+<!--- 
 ### Jonas Schmedtmann Roadmap 
 ![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large)  
 
- 
+ -->
 
 
 
