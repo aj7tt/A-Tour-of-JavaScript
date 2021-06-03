@@ -10,9 +10,12 @@ Welcome! to A tour of JavaScript.
 
 # Contents of Repository📑
 
-> **#LearnByDoing** [Start↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)<br>
-> **#Challenges**   <br>
-> **#Projects** <br>
+|   #   | Topics                                                    |
+|-----------|:-------------------------------------------------------------------------------------------------------------: |
+|  01   | **#LearnByDoing** [Start↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)     |
+|  02   | **#Challenges**    |
+|  03   | **#Projects**     |
+ 
     
 <!---
 ![](https://pbs.twimg.com/media/EgfzxC-U8AES98L?format=jpg&name=large) -->
