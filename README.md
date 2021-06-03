@@ -12,9 +12,9 @@ Welcome! to A tour of JavaScript.
 
 |   #   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  01   | **#LearnByDoing** [Start↗](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)     |
-|  02   | **#Challenges**    |
-|  03   | **#Projects**     |
+|  01   | [#LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)     |
+|  02   | [#Challenges]()    |
+|  03   | [#Projects] ()    |
  
     
 <!---
