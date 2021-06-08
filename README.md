@@ -3,7 +3,7 @@
 
 ```
 
- alert(Welcome! to A tour of JavaScript)
+ alert('Welcome! to A tour of JavaScript')
 
 ```
 
