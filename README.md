@@ -13,7 +13,7 @@
 |  01   |  [LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)      |
 |  02   |  [CodingChallenges]()  |
 |  03   |  [Project_based Learning]()   |
-|  04   |  [Visual_handcrafted_notes]()   |
+|  04   |  [Visual_handcrafted_notes](https://twitter.com/_aj7t)   |
 
 <!--- 
 ### Jonas Schmedtmann Roadmap 
@@ -50,4 +50,4 @@
 
 
 
-### 👉 Reachout to me if you have any questions: [@_aj7t](https://twitter.com/_aj7t )
+👉 Reachout to me if you need any help : [@_aj7t](https://twitter.com/_aj7t )
