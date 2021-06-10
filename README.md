@@ -11,7 +11,7 @@
 |   #       | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
 |  01   |  [LearnByDoing](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/LearnByDoing)      |
-|  02   |  [CodingChallenges]()  |
+|  02   |  [CodingChallenges](https://github.com/Aj7t/A-Tour-of-JavaScript/tree/main/CodingChallenge)  |
 |  03   |  [Project_based Learning]()   |
 |  04   |  [Visual_handcrafted_notes](https://twitter.com/_aj7t)   |
 
