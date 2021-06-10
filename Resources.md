@@ -4,7 +4,7 @@
 📗w3schools - [click here](https://www.w3schools.com/js/)<br>
 📗Udemy-js - [click here](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 📗FreeCodeCamp - [click here](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)<br>
-📗[Code with Harry](https://www.codewithharry.com/videos/javascript-tutorials-in-hindi-1)
+📗Youtube - [Code with Harry](https://www.codewithharry.com/videos/javascript-tutorials-in-hindi-1)
 
 **Free Js Courses**📚<br>
 📗Codecademy - [Click here](https://www.codecademy.com/catalog/language/javascript)<br>
@@ -25,6 +25,11 @@
 📘[Javascript Resources Ref](https://www.freecodecamp.org/news/30-free-resources-for-learning-javascript-fundamentals/)<br>
 📘[Javascript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)<br>
 
+
 **#LearnByDoing**👩‍💻<br>
 📕[Learn by Coding](https://www.interviewbit.com/courses/fast-track-js/)<br>
 📕[Build 30 js ptojects](https://javascript30.com/)<br>
+
+
+### Extra resources 
+[Theory](https://wesbos.com/javascript)
