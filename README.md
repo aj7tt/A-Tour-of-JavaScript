@@ -49,5 +49,4 @@
 📔Learning Material - [click here](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Resources.md)<br>
 
 
-
-👉 Reachout to me if you need any help : [@_aj7t](https://twitter.com/_aj7t )
+ [@_aj7t](https://twitter.com/_aj7t )
