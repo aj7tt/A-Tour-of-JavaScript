@@ -46,5 +46,6 @@
 
 
 ## Resources 📚🧾
-📔Learning Material - [click here](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Resources.md)<br>
+
+📔 [Complete Learning Resources](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Notes/Resources.md)<br>
 
