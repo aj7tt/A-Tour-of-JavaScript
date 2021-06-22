@@ -31,12 +31,19 @@
 📕[Build 30 js ptojects](https://javascript30.com/)<br>
 
 
-### Extra resources 
-[Theory](https://wesbos.com/javascript)
+## Extra resources 
+📚[JS_Theory](https://wesbos.com/javascript)
+
+## Awesome GitHub Repositories 
+1. [wtfjs](https://github.com/denysdovhan/wtfjs)
+1. [javascript30](https://github.com/wesbos/JavaScript30)
+1. [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+1. [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+1. [front-end-interview-handbook](https://github.com/xitu/front-end-interview-handbook)
 
 
 
-### 50 Great Websites For Web Developers 
+## 50 Great Websites For Web Developers 
 
 1. Hidden Tools -
 https://hiddentools.dev/
