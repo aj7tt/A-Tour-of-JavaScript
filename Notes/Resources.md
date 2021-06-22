@@ -34,7 +34,7 @@
 ## Extra resources 
 📚[JS_Theory](https://wesbos.com/javascript)
 
-## Awesome GitHub Repositories 
+## Awesome GitHub Repositories ✨✨
 1. [wtfjs](https://github.com/denysdovhan/wtfjs)
 1. [javascript30](https://github.com/wesbos/JavaScript30)
 1. [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
@@ -43,7 +43,7 @@
 
 
 
-## 50 Great Websites For Web Developers 
+## 50 Great Websites For Web Developers 🖥
 
 1. Hidden Tools -
 https://hiddentools.dev/
