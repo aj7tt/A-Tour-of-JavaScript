@@ -1,5 +1,8 @@
 # Resources 📚💻
 
+## Guide✨
+[front-end-handbook](https://frontendmasters.com/books/front-end-handbook/2019/#4.8)
+
 ### Learn JavaScript📚
 📗w3schools - [click here](https://www.w3schools.com/js/)<br>
 📗Udemy-js - [click here](https://www.udemy.com/course/the-complete-javascript-course/)<br>
