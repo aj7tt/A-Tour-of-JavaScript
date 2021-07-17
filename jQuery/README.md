@@ -32,9 +32,9 @@ jQuery gives us access to tons of different methods to add dynamic behavior to o
 **event methods:**
 ```
 .change()
-.click()
 .focus()
 .hover()
+.click()/.dblclick()
 .keydown()/.keyup()/.keypress()
 .mouseenter()/.mouseleave()
 .on()
