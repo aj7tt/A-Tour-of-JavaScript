@@ -27,7 +27,7 @@ jQuery gives us access to tons of different methods to add dynamic behavior to o
 ```
 .animate()
 .delay()
-.fadeIn()/.fadeOut()
+.fadeIn()/.fadeOut()/.fadeTo()
 .hide()/.show()
 .toggle()
 ```
