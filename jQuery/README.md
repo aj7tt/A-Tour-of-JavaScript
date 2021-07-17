@@ -30,6 +30,7 @@ jQuery gives us access to tons of different methods to add dynamic behavior to o
 .fadeIn()/.fadeOut()/.fadeTo()/.fadeToggle
 .hide()/.show()
 .toggle()
+.slideUp/.slideDown/.slideToggle
 ```
 ----------------------
 
