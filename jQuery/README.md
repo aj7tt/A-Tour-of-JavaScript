@@ -1,5 +1,5 @@
 
-## Adding jQuery to Your Web Page using Google CDN
+## Adding jQuery to Web Page using Google CDN
 
 ```
 <head>
