@@ -1,4 +1,12 @@
 
+### Adding jQuery to Your Web Page using Google CDN
+
+```
+<head>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+```
+
 
 ### What jQuery methods should I be familiar with? ⚡⚡
 
