@@ -1,5 +1,5 @@
 
-### Adding jQuery to Your Web Page using Google CDN
+## Adding jQuery to Your Web Page using Google CDN
 
 ```
 <head>
@@ -7,6 +7,12 @@
 </head>
 ```
 
+## Syntax 
+
+**$(selector).action()**
+```
+$("p").hide()
+```
 
 ### 1.What jQuery methods should I be familiar with? ⚡⚡
 
