@@ -5,7 +5,7 @@
  
 jQuery gives us access to tons of different methods to add dynamic behavior to our sites, some methods you’ll see and use often including effects, events, and DOM manipulation:
 
-effect methods:
+**effect methods:**
 .animate()
 .delay()
 .fadeIn()/.fadeOut()
@@ -13,7 +13,7 @@ effect methods:
 .toggle()
 ----------------------
 
-event methods:
+**event methods:**
 .change()
 .click()
 .focus()
@@ -24,7 +24,7 @@ event methods:
 .ready()
 -------------------------
 
-DOM manipulation methods:
+**DOM manipulation methods:**
 .addClass()/.toggleClass()
 .after()/.before()
 .append()/.prepend()
