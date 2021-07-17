@@ -7,7 +7,7 @@
 </head>
 ```
 
-## Syntax 
+## Syntax ⚡⚡
 
 **$(selector).action( )**
 ```
@@ -18,7 +18,7 @@ $("p").click(function(){
 });
 ```
 
-### 1.What jQuery methods should I be familiar with? ⚡⚡
+### 1.What jQuery methods should I be familiar with? 💌
 
  
 jQuery gives us access to tons of different methods to add dynamic behavior to our sites, some methods you’ll see and use often including effects, events, and DOM manipulation:
