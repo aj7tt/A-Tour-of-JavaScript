@@ -12,6 +12,10 @@
 **$(selector).action( )**
 ```
 $("p").hide()
+
+$("p").click(function(){
+  $(this).hide("slow");
+});
 ```
 
 ### 1.What jQuery methods should I be familiar with? ⚡⚡
