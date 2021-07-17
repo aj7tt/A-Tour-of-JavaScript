@@ -9,7 +9,7 @@
 
 ## Syntax 
 
-**$(selector).action()**
+**$(selector).action( )**
 ```
 $("p").hide()
 ```
