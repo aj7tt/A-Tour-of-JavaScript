@@ -31,6 +31,7 @@ jQuery gives us access to tons of different methods to add dynamic behavior to o
 .hide()/.show()
 .toggle()
 .slideUp/.slideDown/.slideToggle
+.animate()/
 ```
 ----------------------
 
