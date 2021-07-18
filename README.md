@@ -22,12 +22,7 @@
  -->
 
 
-## RoadMap📈🚵‍♀️
-
-<details>
-<summary>JavaScript Fundamentals – 01</summary>
-<br><br>
-<pre>
+ 
 
 1.Values and Variables... 
 2.Data Types ... 
