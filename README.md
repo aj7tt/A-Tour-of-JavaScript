@@ -7,8 +7,6 @@
 
 ```
 
- ![image](https://user-images.githubusercontent.com/67835881/126159084-8dc60be9-e851-46a6-baba-1dff0cb34e4f.png)
-
 
 |   #       | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
@@ -26,3 +24,6 @@
 
 📔 [Complete Learning Resources](https://github.com/Aj7t/A-Tour-of-JavaScript/blob/main/Notes/Resources.md)<br>
 
+
+
+ ![image](https://user-images.githubusercontent.com/67835881/126159084-8dc60be9-e851-46a6-baba-1dff0cb34e4f.png)
