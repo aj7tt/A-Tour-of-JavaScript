@@ -2,7 +2,8 @@
 
 ## Guide✨
 [front-end-handbook](https://frontendmasters.com/books/front-end-handbook/2019/#4.8) ||
-[frontendmastersBootcamp](https://frontendmasters.github.io/bootcamp/)
+[frontendmastersBootcamp](https://frontendmasters.github.io/bootcamp/) ||
+[codingheroes Resources](https://codingheroes.io/resources/)
 
 ### Learn JavaScript📚
 📗w3schools - [click here](https://www.w3schools.com/js/)<br>
